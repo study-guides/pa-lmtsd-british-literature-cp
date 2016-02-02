@@ -29,12 +29,12 @@ To memorize the class system, just remember this acronym:
 
 ## 4. Notable People
 
-- **Venerable Bede**  recorded British history before 700 AD and is referred to "_the father of Engli- sh history_" as the earliest English historian.
+- **Venerable Bede**  recorded British history before 700 AD and is referred to "_the father of English history_" as the earliest English historian.
 - **King Alfred the Great** translated Bede's work to Anglo Saxon.
 - **The Exter Book** is a 10th century book of Anglo Saxon poetry, the largest known collection of its type.
 - **Sutton Hoo** is a large ship found with many Anglo Saxon artifacts
 
-## 5. Literature Seafarer
+## 5. Literature
 
 ### Key Terms
 
