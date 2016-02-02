@@ -72,7 +72,7 @@ Beowulf is an epic poem set in Scandinavia written by an unknown author. It was 
 
 - **Herot** – **mead hall** at Horthgar's throne.
 - **Beowulf** – **Geat** warrior from Finland.
-  - oo **Nagling** – Sword used by Beowulf.
+  - **Nagling** – Sword used by Beowulf.
 - **Wiglaf** – Great warrior helping Beowulf in battle with dragon.
 - **Horthgar** – King of the Danes who had  great success as a ruler before Grendel attacks.
 - **Grendel** – Monster terrorizing Herot.
