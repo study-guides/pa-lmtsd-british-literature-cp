@@ -1,7 +1,8 @@
 {
     "plugins": [
         "advanced-emoji",
-        "codesnippet"
+        "codesnippet",
+        "github"
     ],
     "pluginsConfig": {}
 }
